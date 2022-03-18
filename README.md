@@ -1,4 +1,4 @@
-# LinuxCIFSMOuntPointMP
+# Linux.CIFS.Agnostic
 
 SCOM Linux CIFS Mount Point Management Pack helps you to discover the CIFS Mounts on your Linux Machines
 
